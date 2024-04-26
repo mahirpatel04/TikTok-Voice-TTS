@@ -5,7 +5,7 @@ voice = "en_us_006"
 
 # arguments:
 #   - input text
-#   - vocie which is used for the audio
+#   - voice which is used for the audio
 #   - output file name
 #   - play sound after generating the audio
 tts(text, voice, "output.mp3", play_sound=True)
